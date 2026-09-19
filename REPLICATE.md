@@ -8,3 +8,11 @@ The human wanted best to become an ordinary container with independent project a
 - Previous location: `best/me/style`. Earlier history remains in `alejoacelas/best` at `22ff301` and the local migration Git bundle.
 
 Agent session 01a072fe-84d6-73f3-b37e-3bb912088c38 · Commits b09c75b
+
+## Move style into reference material
+
+The human wanted to remove unstarted personal projects and simplify the remaining folders.
+
+- Moved `me/style` to `wiki/style`, preserved its repository, and adopted the shared wiki instructions.
+
+Agent session 01a0b90b-7ae3-7ed1-bb2f-fde3ad5d78d3 · Commits style: 7ed0f68
