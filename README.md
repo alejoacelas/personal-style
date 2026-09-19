@@ -33,7 +33,7 @@ built, so watching how these four build theirs should transfer.
 ## Neighbors
 - `people/admire/pg`, `people/admire/tyler` — the same two people under a different lens:
   what to learn from them, not how they carry themselves. Cross-feed the two.
-- `me/mind` — presence and attention are mind-level skills; the cultivable half of style
+- `me/health` — presence and attention are mind-level skills; the cultivable half of style
   lives here.
 - `other/art` — McCartney sits on the seam between style and craft; the melody *is* the
   warmth.
