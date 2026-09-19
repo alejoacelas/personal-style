@@ -37,7 +37,7 @@ built, so watching how these four build theirs should transfer.
   lives here.
 - `other/art` — McCartney sits on the seam between style and craft; the melody *is* the
   warmth.
-- `utilitarian/virtues` — is a cultivated style a virtue, a tool, or a vanity? Open.
+- [Consequentialist virtues](../consequentialism/virtues/README.md) — is a cultivated style a virtue, a tool, or a vanity? Open.
 
 ## Live questions
 - Which of these moves are actually mine to take? My material is closer to Graham and
